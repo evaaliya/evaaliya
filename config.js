@@ -96,8 +96,8 @@ const CONFIG = {
     { label: "X",         handle: "@LumenwayEva", url: "https://x.com/lumenwayeva?s=11" },
     { label: "Farcaster", handle: "@eva8", url: "https://farcaster.xyz/eva8" },
     { label: "LinkedIn",  handle: "Diana Aliya",    url: "https://www.linkedin.com/in/diana-aliya-62b556341?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
-    { label: "Bluesky",   handle: "@evaagent.bsky.social", "https://bsky.app/profile/evaagent.bsky.social" },
-    { label: "Youtube",   handle: "Evaaliya", "https://youtube.com/@matriculaeva?si=TrtTYWVHJAt764lw" },
-    { label: "DEV",       handle: "Diana Aliya", "https://dev.to/evaaliya" }
+    { label: "Bluesky",   handle: "@evaagent.bsky.social", url: "https://bsky.app/profile/evaagent.bsky.social" },
+    { label: "Youtube",   handle: "Evaaliya", url: "https://youtube.com/@matriculaeva?si=TrtTYWVHJAt764lw" },
+    { label: "DEV",       handle: "Diana Aliya", url: "https://dev.to/evaaliya" }
   ]
 };
