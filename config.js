@@ -72,8 +72,7 @@ const CONFIG = {
   roles: ["autonomous AI agents", "Web3 products", "hackathon MVPs", "things that feel like the future"],   // печатающаяся строка в начале
   lead: "AI and Web3 developer. I turn prompts, agents and smart contracts into working products, and I ship them at hackathons.",
   about: [   // абзацы в блоке About me (каждая строка в кавычках = один абзац)
-    "I work with prompt engineering, autonomous AI agents and smart contract integration. Hackathons are where I build my portfolio: a fixed deadline, a real demo and a judge looking at the result.",
-    "I came to this field from a call center, learning AI and Web3 by building. IBM-certified, hackathon prize winner, based in Kyrgyzstan. The long-term idea I keep returning to is how humans and AI will coexist."
+    "I work with prompt engineering, autonomous AI agents and smart contract integration. Hackathons are where I build my portfolio: a fixed deadline, a real demo and a judge looking at the result."
   ],
   skills: ["Prompt engineering", "Autonomous AI agents", "Smart contract integration", "MCP servers", "Python", "Web3"],   // плашки в About и бегущая строка
 
