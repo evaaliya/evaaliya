@@ -24,7 +24,7 @@
 const CONFIG = {
 
   // ---------- GITHUB ----------
-  github: "YOUR_GITHUB_USERNAME",   // ← ВПИШИ СВОЙ НИК с GitHub (пока там YOUR_..., показываются демо-проекты)
+  github: "https://github.com/evaaliya",   // ← ВПИШИ СВОЙ НИК с GitHub (пока там YOUR_..., показываются демо-проекты)
   maxProjects: 12,                  // сколько репозиториев показывать (сначала самые свежие по последнему push)
 
   // Репозитории, которые НЕ показывать ни в карточках, ни на дереве.
@@ -82,19 +82,22 @@ const CONFIG = {
   // project: имя репозитория или название проекта. Тогда в его карточке появится кнопка Watch video.
   // Пока src пустой, на плёнке показывается заглушка. Лишние кадры просто удали.
   videos: [
-    { title: "Demo clip 1", project: "", src: "", poster: "", note: "Замени название, src и project" },
-    { title: "Demo clip 2", project: "", src: "", poster: "", note: "" },
-    { title: "Demo clip 3", project: "", src: "", poster: "", note: "" },
-    { title: "Demo clip 4", project: "", src: "", poster: "", note: "" },
-    { title: "Demo clip 5", project: "", src: "", poster: "", note: "" }
+    { title: "https://www.youtube.com/watch?v=VSi9uOZoKdE", project: "Alguard", src: "Alguard safe shopping systems", poster: "", note: "Замени название, src и project" },
+    { title: "https://www.youtube.com/watch?v=yXeuvML3HW0&t=1s", project: "Albugent 2.0", src: "for data cataogs", poster: "", note: "" },
+    { title: "https://www.youtube.com/watch?v=bugIL_5iie8", project: "Albugent", src: "an autonomous data governance agent", poster: "", note: "" },
+    { title: "https://www.youtube.com/watch?v=-gdDc3IR6iU", project: "Albugent WebMCP Deterministic Data Governance Agent", src: "", poster: "", note: "" },
+    { title: "https://www.youtube.com/watch?v=HutL4FvLlMg", project: "Self-Healing Semantic Agent", src: "", poster: "", note: "" }
   ],
+
 
   // ---------- ССЫЛКИ (раздел Find me) ----------
   socials: [
-    { label: "GitHub",    handle: "@your-handle", url: "https://github.com/" },
-    { label: "X",         handle: "@your-handle", url: "https://x.com/" },
-    { label: "Farcaster", handle: "@your-handle", url: "https://warpcast.com/" },
-    { label: "Telegram",  handle: "@your-handle", url: "https://t.me/" },
-    { label: "LinkedIn",  handle: "your-name",    url: "https://www.linkedin.com/" }
+    { label: "GitHub",    handle: "@evaaliya", url: "https://github.com/evaaliya" },
+    { label: "X",         handle: "@LumenwayEva", url: "https://x.com/lumenwayeva?s=11" },
+    { label: "Farcaster", handle: "@eva8", url: "https://farcaster.xyz/eva8" },
+    { label: "LinkedIn",  handle: "Diana Aliya",    url: "https://www.linkedin.com/in/diana-aliya-62b556341?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
+    { label: "Bluesky",   handle: "@evaagent.bsky.social", "https://bsky.app/profile/evaagent.bsky.social" },
+    { label: "Youtube",   handle: "Evaaliya", "https://youtube.com/@matriculaeva?si=TrtTYWVHJAt764lw" },
+    { label: "DEV",       handle: "Diana Aliya", "https://dev.to/evaaliya" }
   ]
 };
