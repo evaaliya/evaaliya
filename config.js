@@ -81,11 +81,11 @@ const CONFIG = {
   // project: имя репозитория или название проекта. Тогда в его карточке появится кнопка Watch video.
   // Пока src пустой, на плёнке показывается заглушка. Лишние кадры просто удали.
   videos: [
-    { title: "https://www.youtube.com/watch?v=VSi9uOZoKdE", project: "Alguard", src: "Alguard safe shopping systems", poster: "", note: "Замени название, src и project" },
-    { title: "https://www.youtube.com/watch?v=yXeuvML3HW0&t=1s", project: "Albugent 2.0", src: "for data cataogs", poster: "", note: "" },
-    { title: "https://www.youtube.com/watch?v=bugIL_5iie8", project: "Albugent", src: "an autonomous data governance agent", poster: "", note: "" },
-    { title: "https://www.youtube.com/watch?v=-gdDc3IR6iU", project: "Albugent WebMCP Deterministic Data Governance Agent", src: "", poster: "", note: "" },
-    { title: "https://www.youtube.com/watch?v=HutL4FvLlMg", project: "Self-Healing Semantic Agent", src: "", poster: "", note: "" }
+    { title: "Alguard ", project: "Alguard safe shopping systems", src: "https://www.youtube.com/watch?v=VSi9uOZoKdE", poster: "", note: "Замени название, src и project" },
+    { title: "Albugent 2.0", project: "", src: "https://www.youtube.com/watch?v=yXeuvML3HW0&t=1s", poster: "", note: "" },
+    { title: "Albugent", project: "Albugent", src: "https://www.youtube.com/watch?v=bugIL_5iie8", poster: "", note: "" },
+    { title: "Albugent WebMCP", project: "Albugent WebMCP Deterministic Data Governance Agent", src: "https://www.youtube.com/watch?v=-gdDc3IR6iU", poster: "", note: "" },
+    { title: "Self-Healing Semantic Agent", project: "Self-Healing Semantic Agent", src: "https://www.youtube.com/watch?v=HutL4FvLlMg", poster: "", note: "" }
   ],
 
 
