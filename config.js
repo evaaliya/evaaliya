@@ -68,7 +68,7 @@ const CONFIG = {
   manualProjects: [],
 
   // ---------- ТЕКСТЫ САЙТА ----------
-  email: "you@example.com",
+  email: "dianasaatbek@gmail.com",
   roles: ["autonomous AI agents", "Web3 products", "hackathon MVPs", "things that feel like the future"],   // печатающаяся строка в начале
   lead: "AI and Web3 developer. I turn prompts, agents and smart contracts into working products, and I ship them at hackathons.",
   about: [   // абзацы в блоке About me (каждая строка в кавычках = один абзац)
